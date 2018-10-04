@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flight Tickets</string>
+    <string name="lbl_price">Price</string>
+</resources>
